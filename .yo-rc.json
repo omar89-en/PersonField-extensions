@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "person-field-extensions",
+    "libraryId": "59489467-71dc-4f43-afb6-3a629239a6f6",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "person-field-extensions",
+    "solutionShortDescription": "person-field-extensions description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "FieldCustomizer"
+  }
+}

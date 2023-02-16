@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <Field ID="{3a77b4b0-6323-489a-b250-555a1d336282}"
+            Name="User Information"
+            DisplayName="User Information"
+            Type="User"
+            UserSelectionMode="0"
+             UserSelectionScope="0"
+            Required="FALSE"
+            Group="SPFx Columns"
+            ClientSideComponentId="1f556472-fce3-437d-a43d-82881b452f41">
+    </Field>
+</Elements>

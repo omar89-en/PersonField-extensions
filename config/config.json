@@ -1,0 +1,19 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "pesron-field-field-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/pesronField/PesronFieldFieldCustomizer.js",
+          "manifest": "./src/extensions/pesronField/PesronFieldFieldCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "PesronFieldFieldCustomizerStrings": "lib/extensions/pesronField/loc/{locale}.js",
+    "ControlStrings": "node_modules/@pnp/spfx-controls-react/lib/loc/{locale}.js"
+  }
+}

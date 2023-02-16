@@ -1,0 +1,28 @@
+.cell {
+  background-color: '#e5e5e5';
+  display: 'inline-block';
+  .primaryText-218{
+    font-size: 8px;
+  }
+}
+.p{
+
+  font-size: 9px;
+}
+.lpcSample {
+  color: inherit;
+}
+
+.chip {
+  display: inline-block;
+  font-size: 10px;
+}
+
+
+.chip img {
+  float: left;
+  margin: 0 5px 0 1px;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
